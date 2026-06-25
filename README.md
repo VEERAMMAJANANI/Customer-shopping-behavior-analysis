@@ -195,7 +195,6 @@ Open the notebook and execute all cells.
 ---
 
 ## Author
-
-**Janani K**
+Veeramma Janani K
 
 Aspiring Data Analyst | Python | SQL | Power BI | Data Visualization
