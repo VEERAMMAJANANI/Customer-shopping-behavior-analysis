@@ -30,12 +30,10 @@ The dataset contains business-related data used for analysis and visualization.
 * Python
 * Pandas
 * NumPy
-* Matplotlib
-* Seaborn
 
 ### Database
 
-* MySQL / PostgreSQL / SQL Server
+* MySQL / SQL Server
 
 ### Visualization
 
